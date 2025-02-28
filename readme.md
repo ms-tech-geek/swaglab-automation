@@ -2,6 +2,8 @@
 
 Welcome to the Swag Labs Automation Project! This project aims to automate various functionalities of the Swag Labs website using Playwright. Here's how to get started:
 
+Swag Labs Website: www.saucedemo.com
+
 ## Project Overview
 
 This project is designed to:
